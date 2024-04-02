@@ -1,0 +1,2 @@
+var canRunAds = true;
+
